@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
+Meu nome e jhonathan alves
 
-**jhonathanalvs/jhonathanalvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Esctou estodando no alura
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organizaaçao e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+- ### Voce entrar em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- jhonathanalves191@gmail.com
 
+- @jhonathanalves
+
+![](https://media1.tenor.com/m/ShO4fIu1RQAAAAAd/metallica-james.gif)
